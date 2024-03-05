@@ -8,14 +8,14 @@ The primary objective of this project is to develop a machine learning model cap
 
 - **Exploratory Data Analysis (EDA):** The initial phase involved performing EDA on the dataset, which was documented in the _**EDA.ipynb**_ file. This involved formatting the Date_Time column appropriately, extracting NSM (Number of Seconds from Midnight) values to understand the timing, and creating plots to visualize the data distribution and relationships. Initial models were built based on three attributes, resulting in an accuracy of 77% shown in _**ml_model_bulding.ipynb**_ in validation dataset.
 
-![result1](ml1.PNG)
+![result1](images/ml1.PNG)
 
 - **Model Building and Evaluation:** Despite achieving decent performance on the training data, the models performed poorly on the validation dataset. To address this issue, additional attributes in the dataset were subjected to imputation and feature engineering. These enhancements were discussed in detail, along with plots and assumptions. Subsequently, a new model was built in the _**ml_model_building2.ipynb**_ notebook, resulting in an improved accuracy of 83% in validation dataset.
 
   - The test dataset yields a 69% accuracy with adaboost classifier by training the whole training and validation dataset.
 
 
-![result1](ml2.PNG)
+![result1](images/ml2.PNG)
 
 
 ## Dataset Splitting
