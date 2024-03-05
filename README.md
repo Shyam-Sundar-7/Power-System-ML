@@ -32,3 +32,5 @@ streamlit run app.py
 Make sure you're in the directory where your app.py file is located. This command will start the Streamlit server and open your web browser with the running application. You can then interact with the application through the browser interface.
 
 # Local Setup Output in Streamlit
+
+[streamlit-app-2024-03-05-18-03-88.webm](https://github.com/Shyam-Sundar-7/Power-System-ML/assets/101181076/81451b68-f697-41bd-9c02-970e306ec0c4)
