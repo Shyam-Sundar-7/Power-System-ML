@@ -22,3 +22,13 @@ The primary objective of this project is to develop a machine learning model cap
 
 The test dataset consists of the last month of data from 2018. Out of the remaining months, 20% is allocated as the validation dataset, while the rest is used for training the model.
 
+## Streamlit App run:
+
+To execute the Streamlit application, run the following command in your terminal:
+
+```
+streamlit run app.py
+```
+Make sure you're in the directory where your app.py file is located. This command will start the Streamlit server and open your web browser with the running application. You can then interact with the application through the browser interface.
+
+# Local Setup Output in Streamlit
