@@ -24,12 +24,30 @@ The test dataset consists of the last month of data from 2018. Out of the remain
 
 ## Streamlit App run:
 
-To execute the Streamlit application, run the following command in your terminal:
 
-```
-streamlit run app.py
-```
-Make sure you're in the directory where your app.py file is located. This command will start the Streamlit server and open your web browser with the running application. You can then interact with the application through the browser interface.
+## Running the Streamlit Application
+
+To run the Streamlit application:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/Shyam-Sundar-7/Power-System-ML.git
+   ```
+
+2. Create a virtual environment and install the dependencies from requirements.txt.
+
+    ```
+    python -m venv env
+    source env/bin/activate  # Activate the virtual environment
+    pip install -r requirements.txt
+    ```
+
+3. run the following command in your terminal:
+
+    ```
+    streamlit run app.py
+    ```
+
 
 # Local Setup Output in Streamlit
 
