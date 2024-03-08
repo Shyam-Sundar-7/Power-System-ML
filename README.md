@@ -1,4 +1,4 @@
-# Assignment 2: USEReady ML Project
+# Power-System-ML
 
 ## Project Overview
 
